@@ -10,8 +10,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "Schedule"
+    url = "/schedule/"
+    weight = -10
+
+[[menu.main]]
+    name = "Facilities"
+    url = "/facilities/"
+    weight = -9
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = -7
+
+[[menu.main]]
     name = "GitHub"
     url = "https://github.com/uomphonlab"
+    weight = 5
 
 [params]
     description = "The website of the Phonetics Laboratory at the University of Manchester."
