@@ -2,7 +2,7 @@
 title: Facilities
 ---
 
-The equipment available in the Phon Lab at the moment is:
+The equipment we have available in the Phon Lab at the moment is:
 
 * Mac and PC desktops and laptops
 * Ultrasound tongue imaging (Telemed Echo Blaster 128 CEXT B/W; Mindray DP-2200)

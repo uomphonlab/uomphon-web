@@ -1,6 +1,6 @@
 baseurl = "https://uomphonlab.github.io/"
 languageCode = "en-gb"
-title = "The University of Manchester Phonetics Laboratory"
+title = "Phonetics Laboratory | University of Manchester"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
