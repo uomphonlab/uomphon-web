@@ -4,7 +4,7 @@ title: Contact
 
 To book the sound-proof recording room or to borrow equipment, please use the contact form below.
 
-**N.B.:** Depending on staff availability, we might not be able accept bookings even if the lab is free. We will only accept bookings made at least 24 hours in advance. Note also that all bookings sent after 17:00 will be attended to the following working day.
+**NB:** Depending on staff availability, we might not be able accept bookings even if the lab is free. We will only accept bookings made at least 24 hours in advance. Note also that all bookings sent after 17:00 will be attended to the following working day.
 
 <form method="POST" action="https://formspree.io/phonlab@outlook.com">
   <p><input size="50" type="email" name="email" placeholder="Your email"></p>

@@ -6,7 +6,7 @@ Located in room **S1.24** of the **Samuel Alexander Building**, the Lab consists
 
 If you would like to book the recording booth or borrow any equipment, please check availability on the **[Schedule]({{< ref "schedule.md" >}})** and then get in contact with the lab assistants through the **[Contact]({{< ref "contact.md" >}})** page.
 
-The university also has a separate **[Psycholinguistics Lab](https://uompsylinglab.github.io/)** that you might also be interested in.
+The university also has a **[Psycholinguistics Lab](https://uompsylinglab.github.io/)** that you might be interested in.
 
 ## People
 

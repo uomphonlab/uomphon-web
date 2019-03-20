@@ -10,13 +10,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Schedule"
-    url = "/schedule/"
+    name = "Facilities"
+    url = "/facilities/"
     weight = -10
 
 [[menu.main]]
-    name = "Facilities"
-    url = "/facilities/"
+    name = "Schedule"
+    url = "/schedule/"
     weight = -9
 
 [[menu.main]]
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 5
 
 [params]
-    description = "The website of the Phonetics Laboratory at the University of Manchester."
+    description = "The website of the University of Manchester's Phonetics Laboratory."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
